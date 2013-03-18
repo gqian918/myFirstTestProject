@@ -1,0 +1,1 @@
+print("lua is lua ,hello")
